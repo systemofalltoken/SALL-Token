@@ -77,6 +77,11 @@ Use, reproduction, or derivative work requires **written authorization** from **
 All content is aligned with **The One Law of Resonant Alignment** — a scientific-religious framework uniting divine order and natural law.
 
 
+## 📘 Documentation & Resources
+For developers, researchers, and collaborators exploring the SALL ecosystem and The One Law framework:
+- [Ecosystem Overview](ecosystem/README.md)
+- [Technical White Paper](docs/WhitePaper.md)
+
 
 © 2025 **System Of All LLC** and **The One Legacy Foundation**.  
 All rights reserved under **The One Law of Resonant Alignment**.  
