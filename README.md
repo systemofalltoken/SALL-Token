@@ -37,7 +37,7 @@ SALL Token connects and supports a network of transformative initiatives within 
   🔗 [https://theonebooks.com](https://theonebooks.com)
 
 - 🏛️ **SALL Auctions** — a blockchain-based auction portal for art, collectibles, and legacy assets within the **System Of All** ecosystem.  
-  🔗 [https://systemofalltoken.com](https://sallauctions.com)
+  🔗 [https://sallauctions.com](https://sallauctions.com)
 
 
 
